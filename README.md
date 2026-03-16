@@ -1,7 +1,7 @@
 Employee Attrition üzrə Power BI Dashboard
 -----------------------------------------------
 
-Bu layihə Power BI istifadə edilərək hazırlanmış sadə bir HR Analytics Dashboard-dur.
+Bu layihə Power BI istifadə edilərək hazırlanmış  HR Analytics Dashboard-dur.
 Dashboard HR komandalarına işçilərin niyə şirkətdən ayrıldığını anlamağa və inkişaf etdirilməsi lazım olan sahələri müəyyən etməyə kömək edir.
 
 -----------------------------------
