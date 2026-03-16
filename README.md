@@ -34,8 +34,11 @@ KPI Kartları: Employee Count, Attrition Count, Attrition Rate, Average Age, Ave
 Pie və Bar Chart-lar: Attrition-un Education, Age Group, Gender və Business Travel üzrə bölgüsü
 
 Matrix Cədvəli: Job Role və Age Group üzrə attrition təhlili
+
 Area Chart: Years at Company üzrə attrition göstəricisi
+
 Əlavə Qrafiklər:
+
 Monthly Income vs Attrition
 Job Satisfaction vs Attrition
 Work-Life Balance vs Attrition
